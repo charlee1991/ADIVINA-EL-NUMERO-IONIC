@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "bbass_blanco",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bbass_blanco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
